@@ -1,7 +1,5 @@
 # Water-Potability-Prediction
 
-# Water Potability Prediction
-
 ## Project Overview
 This project aims to predict the potability of water based on specific quality metrics, addressing a fundamental human right and a key element of health protection policies. Using a dataset of 3,276 water bodies, we implement and evaluate various classical machine learning models to determine if water is safe for consumption.
 
